@@ -1,4 +1,4 @@
-from LocatorsPage.locators import ConsultationPageLocators, SymptomInformationLocators
+from LocatorsPage.locators import ConsultationPageLocators
 import time
 import logging
 from selenium.common.exceptions import TimeoutException
